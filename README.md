@@ -1,14 +1,22 @@
 ## DistanceTransform
 
-This project demonstrates the use of the Meijster Distance Transform algorithm on a 2D array.
 The distance transform operation consist in finding the shortest distance of a black pixel to 
 a white one. 
 
-While the naive approach have a complexity of o(n^4), this algorithm have one of o(n^3).
-As a consequence it is vastyly advantageous for when it comes to process large images.
+This project demonstrates the use of the Meijster distance transform algorithm on a 2D array.  
+ 
+While the naive approach has a complexity of o(n^4), this algorithm has one of o(n^3).  
 
-When filled with sparse random data, it generally results in cellular gradient patterns.
+As a consequence, it is vastly advantageous for when it comes to process large images.  
 
-The Meijster distance trasform is a the core of our NFT project 'nuclei'.
+When filled with sparse random data, it generally results in cellular gradient patterns:  
 
-Have fun playing with it!
+<p align="center">
+  <img src="https://github.com/CodeInColors/DistanceTransform/blob/main/example.png"/>
+</p>
+
+The Meijster distance transform is a the core of our NFT project __nuclei__.  
+
+## License
+
+This project is released under MiT License. Have fun playing with it !
