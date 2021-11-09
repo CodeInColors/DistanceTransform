@@ -25,8 +25,8 @@
 
 int main(void)
 {
-	const int width  = 300;
-	const int height = 200;
+	const int width  = 640;
+	const int height = 480;
 
 	// Allocate //////////////////////////////////
 
