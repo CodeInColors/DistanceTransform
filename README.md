@@ -23,7 +23,7 @@ Another possible use of the distance transform is to create solid noise by accum
 
 ## Build the Example
 
-Its pretty simple. First you create a build folder and enter in it:
+It is pretty simple. First you create a build folder and enter in it:
 
 ```sh
 mkdir build 
