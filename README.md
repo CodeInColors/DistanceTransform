@@ -29,7 +29,7 @@ It is pretty simple. First you create a build folder and enter in it:
 mkdir build 
 cd build
 ```
-Then you generate the makefile with CMake, and eventualy you build the project with Make: 
+Then you generate the makefile with CMake, and eventually you build the project with Make: 
 
 ```sh
 cmake ..
