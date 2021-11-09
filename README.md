@@ -31,6 +31,12 @@ Then you generate the makefile with CMake, and eventualy you build the project w
 cmake ..
 make
 ```
+The executable is now ready to be used:
+
+```sh
+./COMPUTE
+```
+
 And that's all !
 
 ## License
