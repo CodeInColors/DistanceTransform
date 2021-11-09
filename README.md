@@ -10,7 +10,7 @@ When filled with sparse random data, it generally results in cellular gradient p
   <img src="https://github.com/CodeInColors/DistanceTransform/blob/main/example.png"/>
 </p>
 
-The Meijster distance transform is a the core of our NFT project [__NUCLEI__](https://twitter.com/code_in_colors).  
+The Meijster distance transform is a the core of our NFT project __NUCLEI__.  
 
 The original paper can be find [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.4863&rep=rep1&type=pdf).
 
