@@ -4,6 +4,10 @@ This project demonstrates the use of the Meijster Distance Transform algorithm o
 The distance transform operation consist in finding the shortest distance of a black pixel to 
 a white one. 
 
+<p align="center">
+  <img src="https://github.com/CodeInColors/DistanceTransform/blob/master/example.png"/>
+</p>
+
 While the naive approach have a complexity of o(n^4), this algorithm have one of o(n^3).
 As a consequence it is vastyly advantageous for when it comes to process large images.
 
