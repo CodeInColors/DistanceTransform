@@ -5,8 +5,8 @@ a white one.
 
 This project demonstrates the use of the Meijster distance transform algorithm on a 2D array.  
  
-While the naive approach have a complexity of o(n^4), this algorithm have one of o(n^3).
-As a consequence it is vastyly advantageous for when it comes to process large images.  
+While the naive approach has a complexity of o(n^4), this algorithm has one of o(n^3).
+As a consequence, it is vastly advantageous for when it comes to process large images.  
 
 When filled with sparse random data, it generally results in cellular gradient patterns.  
 
