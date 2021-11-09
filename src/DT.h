@@ -13,6 +13,7 @@
 
 #pragma once
 #include <vector>
+#include <cmath>
 
 static int bowl(int x, int i, int g_i)
 {
@@ -21,7 +22,7 @@ static int bowl(int x, int i, int g_i)
 
 static int sep(int i, int u, int g_i, int g_u)
 {
-	double r = std::floor((u * u - i * i + g_u * g_u - g_i * g_i) / (2 * (u - i)));
+	double r = floor((u * u - i * i + g_u * g_u - g_i * g_i) / (2 * (u - i)));
 	return static_cast <int> (r);
 }
 
@@ -148,7 +149,7 @@ static void sqrt(double ** &input, int width, int height)
 {
 	for (int x = 0; x < width; x++)
 		for (int y = 0; y < height; y++)
-			input[x][y] = std::sqrt(input[x][y]);
+			input[x][y] = sqrt(input[x][y]);
 }
 
 void distanceTransform(double ** &input, int width, int height)
