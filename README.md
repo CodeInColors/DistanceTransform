@@ -17,6 +17,22 @@ When filled with sparse random data, it generally results in cellular gradient p
 
 The Meijster distance transform is a the core of our NFT project __nuclei__.  
 
+## Build the Example
+
+Its pretty simple. First you create a build folder and enter in it:
+
+```sh
+mkdir build 
+cd build
+```
+Then you generate the makefile with CMake, and eventualy you build the prject with make: 
+
+```sh
+cmake ..
+make
+```
+And that's all !
+
 ## License
 
 This project is released under MiT License. Have fun playing with it !
