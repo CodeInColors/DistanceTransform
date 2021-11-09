@@ -10,6 +10,9 @@ When filled with sparse random data, it generally results in cellular gradient p
   <img src="https://github.com/CodeInColors/DistanceTransform/blob/main/example.png"/>
 </p>
 
+The original paper can be found [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.4863&rep=rep1&type=pdf).
+
+
 The Meijster distance transform is a the core of our NFT project __NUCLEI__.  
 
 Another possible use of the distance transform is to create solid noise by accumulating layers of increasing density:
@@ -17,8 +20,6 @@ Another possible use of the distance transform is to create solid noise by accum
 <p align="center">
   <img src="https://github.com/CodeInColors/DistanceTransform/blob/main/noise.png"/>
 </p>
-
-The original paper can be found [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.4863&rep=rep1&type=pdf).
 
 ## Build the Example
 
