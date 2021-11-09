@@ -18,7 +18,7 @@ Another possible use of the distance transform is to create solid noise by accum
   <img src="https://github.com/CodeInColors/DistanceTransform/blob/main/noise.png"/>
 </p>
 
-The original paper can be find [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.4863&rep=rep1&type=pdf).
+The original paper can be found [here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.476.4863&rep=rep1&type=pdf).
 
 ## Build the Example
 
