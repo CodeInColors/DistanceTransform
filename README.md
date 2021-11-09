@@ -5,7 +5,7 @@ The distance transform operation consist in finding the shortest distance of a b
 a white one. 
 
 <p align="center">
-  <img src="https://github.com/CodeInColors/DistanceTransform/blob/master/example.png"/>
+  <img src="https://github.com/CodeInColors/DistanceTransform/blob/main/example.png"/>
 </p>
 
 While the naive approach have a complexity of o(n^4), this algorithm have one of o(n^3).
