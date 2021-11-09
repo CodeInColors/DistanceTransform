@@ -17,4 +17,6 @@ When filled with sparse random data, it generally results in cellular gradient p
 
 The Meijster distance transform is a the core of our NFT project __nuclei__.  
 
-Have fun playing with it!
+## License
+
+This project is released under MiT License. Have fun playing with it !
