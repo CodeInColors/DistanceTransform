@@ -12,7 +12,7 @@
 // the distance transform in place. To save the produced image we use the P6
 // raw format (also knonw as PPM). Finally we deallocate the buffers.
 // -----------------------------------------------------------------------------
-// Author: Ben Halimi - Contact: bhalimi@outlook.fr
+// Author: Occam - Contact: bluenoise86@gmail.com
 // Copyright: Code in Colors, 2021 - License: MIT open source license
 ////////////////////////////////////////////////////////////////////////////////
 
