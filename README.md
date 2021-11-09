@@ -25,7 +25,7 @@ Its pretty simple. First you create a build folder and enter in it:
 mkdir build 
 cd build
 ```
-Then you generate the makefile with CMake, and eventualy you build the prject with make: 
+Then you generate the makefile with CMake, and eventualy you build the project with Make: 
 
 ```sh
 cmake ..
