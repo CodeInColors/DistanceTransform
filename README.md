@@ -1,4 +1,4 @@
-## DistanceTransform
+## Distance Transform
 
 The distance transform operation consist in finding the shortest distance of a black pixel to a white one. This project demonstrates the use of the Meijster distance transform algorithm on a 2D array.  
  
